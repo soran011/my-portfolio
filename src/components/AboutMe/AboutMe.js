@@ -1,0 +1,32 @@
+import React from "react";
+import MyPic from "../../assets/MyPic.jpg";
+
+const AboutMe = () => {
+  return (
+    <div className="aboutme-container py-5">
+      <div className="row">
+        <div className="col-lg-6 col-xm-12">
+          <div className="photo-wrap mb-5">
+            <img className="profile-img" src={MyPic} alt="My Picture..." />
+          </div>
+        </div>
+        <div className="col-lg-6 col-xm-12">
+          <h1 className="about-heading">about me</h1>
+          <p>
+            Passionate, committed and, innovative Frontend Developer with
+            intensive experience building and maintaining responsive web
+            applications.
+          </p>
+          <h4 className="about-skills">Areas of Expertie</h4>
+          <p>
+            HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, REACT JS, REACT NATIVE,
+            GIT, VERSION CONTROL, GITHUB, NODE.JS, WEB SERVICES API, DOM,
+            EXPRESS.JS, MONGODB, MYSQL, EXPO, HEROKU, AGILE METHODOLOGIES
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default AboutMe;
