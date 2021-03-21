@@ -55,7 +55,7 @@ const Footer = () => {
           <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
             <div className="d-flex justify-content-center">
               <FacebookShareButton
-                url={"https://github.com/soranharuti"}
+                url={"https://soranharuti.github.io/my-portfolio/"}
                 quote={"Soran Haruti | Frontend Developer"}
                 // hashtag="#TestHash1 #TestHash1"
               >
@@ -63,7 +63,7 @@ const Footer = () => {
               </FacebookShareButton>
 
               <TwitterShareButton
-                url={"https://github.com/soranharuti"}
+                url={"https://soranharuti.github.io/my-portfolio/"}
                 quote={"Soran Haruti | Frontend Developer"}
                 // hashtag="#TestHash1 #TestHash1"
               >
@@ -71,7 +71,7 @@ const Footer = () => {
               </TwitterShareButton>
 
               <LinkedinShareButton
-                url={"https://github.com/soranharuti"}
+                url={"https://soranharuti.github.io/my-portfolio/"}
                 quote={"Soran Haruti | Frontend Developer"}
                 // hashtag="#TestHash1 #TestHash1"
               >
