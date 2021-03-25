@@ -10,7 +10,6 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2018 - Present</h3>
             <h3>Frontend Developer - EasyTech Co.</h3>
             <p>
               Implement web design and development principles to build stable
@@ -36,7 +35,6 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2019 - 2020</h3>
             <h3>R&D Engineer - Advanced Upsteam</h3>
             <p>
               Performed analyses and statistical comparisons of results to
@@ -53,22 +51,13 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2014 - 2019</h3>
             <h3>Application - Baker Hughes</h3>
             <p>
-              Led the coding, testing, documentation, implementation and
-              maintenance of information technology solutions for business
-              processes and customer requirements Developed creative
-              proof-of-concepts and prototypes of easy to navigate user
-              interfaces (UI) to include graphics, icons and color schemes
-              Collaborated with teams to define standards, best practices and
-              processes around application development and design Engaged with
-              cross-functional teams and internal customers in a global-matrix
-              environment to deliver innovative software solutions Implemented
-              functional and technical enhancements to meet business needs and
-              requirements Environment: Angular, Node, JavaScript, TypeScript,
-              HTML5 and CSS, Object-Oriented-Programming, Git NoSQL database,
-              MongoDB RESTful API
+              Conducted direct business-to-business selling andprofessional product detailing
+              Achieved established revenue growth expectationswithin assigned territory
+              Prepared well schematics
+              Worked on commercial and technical proposals ·
+              Worked on purchase orders, quotes and invoices
             </p>
           </div>
         </div>
